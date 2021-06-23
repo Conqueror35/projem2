@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311797304068",
+    "project_id": "restoran-df404",
+    "storage_bucket": "restoran-df404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311797304068:android:e8b720e5e0988b5bd5de51",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311797304068-icvfl91e8jihcse0i1u77eht3ajbc2p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIJZIzdGbUKevd4ug7sZ6IuC-T5Mym_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311797304068-icvfl91e8jihcse0i1u77eht3ajbc2p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
